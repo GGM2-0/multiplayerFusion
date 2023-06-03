@@ -4,6 +4,8 @@
 
 Code based on the [Fusion Shared Mode Tutorial](https://doc.photonengine.com/fusion/current/tutorials/shared-mode-basics/overview).
 
+[PLAY ON ITCH](https://ggm-gamedev.itch.io/multiplayerfusion)
+
 
 
 </div># multiplayerFusion
